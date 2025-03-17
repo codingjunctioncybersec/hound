@@ -1,7 +1,7 @@
 #!/bin/bash
 # Hound v 0.2
-# Powered by TechChip
-# visit https://youtube.com/techchipnet
+# Powered by CodingJunction
+# visit https://youtube.com/CodingJunctionOfficial
 
 trap 'printf "\n";stop' 2
 
@@ -13,8 +13,8 @@ printf '       ███████ ██    ██ ██    ██ ██ �
 printf '       ██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ \n'
 printf '       ██   ██  ██████   ██████  ██   ████ ██████  \n\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
-printf " \e[1;93m      Hound Ver 0.2 - by Anil Parashar [TechChip]\e[0m \n"
-printf " \e[1;92m      www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;93m      Hound Ver 0.2 - by [CodingJunction]\e[0m \n"
+printf " \e[1;92m      www.codingjunction.in | youtube.com/CodingJunctionOfficial \e[0m \n"
 printf "\e[1;90m Hound is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
